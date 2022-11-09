@@ -1,13 +1,12 @@
-# Análise de Dados da Venda de uma Empresa
+# Data Analysis of the Sale of a Company
 
-## Objetivo:
-Esse repositório se trata do arquivo Excel contendo a análise de um dataset proposto pelo [Alex, The Analyst](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/), onde o objetivo é aplicar uma análise básica fornecendo os KPIs para a tomada da decisão.
+## Objective:
+This repository is the Excel file containing the analysis of a dataset proposed by [Alex, The Analyst](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/), where the objective is to apply a basic analysis providing the KPIs for decision making.
+## What will be seen:
+Dashboard in Excel containing the data analysis and dataviz.
 
-## O que será visto:
-Dashboard em Excel contendo a análise dos dados.
-
-## Dataset original:
+## Original Dataset:
 [Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
-## Fontes usadas para aprender
-Para realizar esse projeto usei as técnicas apresentadas [neste](https://www.youtube.com/watch?v=opJgMj1IUrc) vídeo 
+## Sources used to learn:
+To carry out this project I used the techniques presented in [this](https://www.youtube.com/watch?v=opJgMj1IUrc) video.
